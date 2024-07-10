@@ -2,6 +2,8 @@ flask
 nltk
 numpy
 keras
-gunicorn
 requests
 tensorflow
+gunicorn==21.2.0
+Werkzeug==3.0.0
+psycopg2-binary==2.9.9
